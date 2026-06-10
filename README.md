@@ -86,7 +86,7 @@ Full-stack SaaS with real-time SSE updates, BullMQ job queues, and multi-platfor
 
 ---
 
-### 💬 [Chat App — Next.js + WebSocket](https://github.com/SamehDheir/Chat-App-Nextjs-WebSocket)
+### [Chat App — Next.js + WebSocket](https://github.com/SamehDheir/Chat-App-Nextjs-WebSocket)
 > Real-time chat with image sharing, emoji picker, and dark/light mode
 
 `Next.js` `Socket.io` `MongoDB` `TypeScript`
@@ -106,7 +106,7 @@ Full-stack SaaS with real-time SSE updates, BullMQ job queues, and multi-platfor
 
 ---
 
-## 🎓 Research & Academic Work
+## Research & Academic Work
 
 -  **Master's Research:** Comparative analysis of **2PC vs 3PC protocols** in distributed fintech systems
 -  **Big Data Project:** AI-powered resume matching system using **Apache PySpark**, TF-IDF & Cosine Similarity — 77.7% accuracy on 24,840 resumes ([repo](https://github.com/SamehDheir/resume-matching-bigdata))
