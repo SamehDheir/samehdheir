@@ -68,15 +68,6 @@ An npm SDK + NestJS backend + Next.js dashboard that captures runtime errors, ge
 
 ---
 
-### 🗣️ SpeakUp AI *(In Progress)*
-> AI-powered English speaking practice platform
-
-Real-time voice conversations with AI, pronunciation feedback, session history, and personalized learning paths.
-
-`Next.js` `NestJS` `ElevenLabs` `Whisper` `GPT-4o` `PostgreSQL`
-
----
-
 ### [AI Content Repurposer](https://github.com/SamehDheir)
 > Transform YouTube videos into Twitter threads, blog posts & social content
 
