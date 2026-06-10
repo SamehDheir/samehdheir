@@ -25,7 +25,7 @@
 -  Experience in **fintech** and **payment systems**
 -  Pursuing an **M.Sc. in Information Technology** at the Islamic University of Gaza — research on **distributed systems & Big Data**
 -  Trained **200+ developers** in modern web development
-- 🚀 Currently building **SpeakUp AI** — an AI-powered English speaking practice platform
+-  Currently building **SpeakUp AI** — an AI-powered English speaking practice platform
 
 ---
 
@@ -57,9 +57,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔍 [errflow](https://errflow.dev)
+### [errflow](https://errflow.dev)
 > AI-powered error monitoring SaaS for Node.js applications
 
 An npm SDK + NestJS backend + Next.js dashboard that captures runtime errors, generates AI-powered code fixes, runs Jest tests automatically, and opens GitHub Pull Requests — all without manual intervention.
@@ -77,7 +77,7 @@ Real-time voice conversations with AI, pronunciation feedback, session history, 
 
 ---
 
-### 📦 [AI Content Repurposer](https://github.com/SamehDheir)
+### [AI Content Repurposer](https://github.com/SamehDheir)
 > Transform YouTube videos into Twitter threads, blog posts & social content
 
 Full-stack SaaS with real-time SSE updates, BullMQ job queues, and multi-platform AI content generation.
@@ -93,7 +93,7 @@ Full-stack SaaS with real-time SSE updates, BullMQ job queues, and multi-platfor
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamehDheir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -108,8 +108,8 @@ Full-stack SaaS with real-time SSE updates, BullMQ job queues, and multi-platfor
 
 ## 🎓 Research & Academic Work
 
-- 📄 **Master's Research:** Comparative analysis of **2PC vs 3PC protocols** in distributed fintech systems
-- 📊 **Big Data Project:** AI-powered resume matching system using **Apache PySpark**, TF-IDF & Cosine Similarity — 77.7% accuracy on 24,840 resumes ([repo](https://github.com/SamehDheir/resume-matching-bigdata))
+-  **Master's Research:** Comparative analysis of **2PC vs 3PC protocols** in distributed fintech systems
+-  **Big Data Project:** AI-powered resume matching system using **Apache PySpark**, TF-IDF & Cosine Similarity — 77.7% accuracy on 24,840 resumes ([repo](https://github.com/SamehDheir/resume-matching-bigdata))
 
 ---
 
