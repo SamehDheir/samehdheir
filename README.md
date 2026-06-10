@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend & Full-Stack Engineer · Node.js · NestJS · Next.js · TypeScript</b><br/>
-  <i>Building scalable systems, developer tools, and AI-powered SaaS products — from Gaza, Palestine 🇵🇸</i>
+  <i>Building scalable systems, developer tools, and AI-powered SaaS products</i>
 </p>
 
 <p align="center">
@@ -17,19 +17,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🔭 **3+ years** of experience in backend and full-stack development
-- 🏗️ Specialized in **NestJS**, **Node.js**, **Next.js**, and **TypeScript**
-- 🗄️ Strong background in **PostgreSQL**, **Redis**, **Prisma ORM**, and **Docker**
-- 💳 Experience in **fintech** and **payment systems**
-- 🎓 Pursuing an **M.Sc. in Information Technology** at the Islamic University of Gaza — research on **distributed systems & Big Data**
-- 👨‍🏫 Trained **200+ developers** in modern web development
+-  **3+ years** of experience in backend and full-stack development
+-  Specialized in **NestJS**, **Node.js**, **Next.js**, and **TypeScript**
+-  Strong background in **PostgreSQL**, **Redis**, **Prisma ORM**, and **Docker**
+-  Experience in **fintech** and **payment systems**
+-  Pursuing an **M.Sc. in Information Technology** at the Islamic University of Gaza — research on **distributed systems & Big Data**
+-  Trained **200+ developers** in modern web development
 - 🚀 Currently building **SpeakUp AI** — an AI-powered English speaking practice platform
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Runtimes
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
